@@ -1,0 +1,120 @@
+// Label for a closed path
+// en: [plural=one]: "%lld node"
+// en: [plural=other]: "%lld nodes"
+"%lld nodes[plural=zero]" = "%lld 個控制點";
+"%lld nodes[plural=other]" = "%lld 個控制點";
+
+// Label for a open path
+// en: [plural=one]: "%lld node (open)"
+// en: [plural=other]: "%lld nodes (open)"
+"%lld nodes (open)[plural=zero]" = "%lld 個控制點（開放路徑）";
+"%lld nodes (open)[plural=other]" = "%lld 個控制點（開放路徑）";
+
+// A placeholder text showing the number of unchanged values/entries/elements in a list.
+// en: [plural=one]: "%lld unchanged value"
+// en: [plural=other]: "%lld unchanged values"
+"%lld unchanged values[plural=zero]" = "%lld 個未變更的值";
+"%lld unchanged values[plural=other]" = "%lld 個未變更的值";
+
+// A placeholder text showing the number of values/entries/elements in a list.
+// en: [plural=one]: "%lld value"
+// en: [plural=other]: "%lld values"
+"%lld values[plural=zero]" = "%lld 個值";
+"%lld values[plural=other]" = "%lld 個值";
+
+// Boolean false or no value
+// en: "no"
+"boolean.false" = "否";
+
+// Boolean true or yes value
+// en: "yes"
+"boolean.true" = "是";
+
+// The red, green, blue, and alpha (opacity) components of a color label.
+// en: "%1$u, %2$u, %3$u, %4$u"
+"color-label.color-components.reg-green-blue-alpha" = "%1$u, %2$u, %3$u, %4$u";
+
+// en: "Blue"
+"color.blue" = "藍色";
+
+// en: "Brown"
+"color.brown" = "褐色";
+
+// en: "Cyan"
+"color.cyan" = "淺藍色";
+
+// en: "Dark Gray"
+"color.dark-gray" = "深灰色";
+
+// en: "Dark Green"
+"color.dark-green" = "深綠色";
+
+// en: "Light Gray"
+"color.light-gray" = "淺灰色";
+
+// en: "Light Green"
+"color.light-green" = "淺綠色";
+
+// en: "Orange"
+"color.orange" = "橘色";
+
+// en: "Pink"
+"color.pink" = "粉紅色";
+
+// en: "Purple"
+"color.purple" = "紫色";
+
+// en: "Red"
+"color.red" = "紅色";
+
+// en: "Yellow"
+"color.yellow" = "黃色";
+
+// The alignment of a component
+// en: "Automatic (Aligned)"
+"component.alignment.aligned" = "自動（已對齊）";
+
+// The alignment of a component
+// en: "Default"
+"component.alignment.default" = "預設";
+
+// The alignment of a component
+// en: "Disabled"
+"component.alignment.disable" = "已停用";
+
+// The alignment of a component
+// en: "Automatic"
+"component.alignment.force" = "自動";
+
+// The alignment of a component
+// en: "Automatic (Horizontal)"
+"component.alignment.horizontal" = "自動（水平）";
+
+// The alignment of a component
+// en: "None"
+"component.alignment.none" = "無";
+
+// The number of bytes of data
+// en: "%lld bytes"
+"data.byte-count" = "%lld 位元組";
+
+// Short description about an item that moved from one index to another
+// en: "%1$@ → %2$@"
+"index.move" = "%1$@ → %2$@";
+
+// A range from a lower number to a upper number
+// en: "%1$@–%2$@"
+"index.range" = "%1$@–%2$@";
+
+// Tooltip for a moved entry
+// en: "This entry was moved from position %1$@ to position %2$@"
+"moved-item-tooltip" = "此項目已從位置 %1$@ 移動到位置 %2$@";
+
+// en: "Center"
+"orientation.center" = "中心";
+
+// en: "Left"
+"orientation.left" = "左側";
+
+// en: "Right"
+"orientation.right" = "右側";

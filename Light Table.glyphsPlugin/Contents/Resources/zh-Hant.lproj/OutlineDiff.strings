@@ -1,0 +1,47 @@
+// Button that collapses (fold in) the rows of all diff entries that are directly nested inside of the selected diff entry
+// en: "Collapse Entries"
+"collapse-child-items.button" = "收合項目";
+
+// Button that expands (fold out) the rows of all diff entries that are directly nested inside of the selected diff entry
+// en: "Expand Entries"
+"expand-child-items.button" = "展開項目";
+
+// Button that selects the next row above that is on the same indentation level as the currently selected row
+// en: "Select Next Entry on Same Level Above"
+"select-next-item-on-same-level-above.button" = "選擇上一個同層級項目";
+
+// Button that selects the next row below that is on the same indentation level as the currently selected row
+// en: "Select Next Entry on Same Level Below"
+"select-next-item-on-same-level-below.button" = "選擇下一個同層級項目";
+
+// Button that stages a file
+// en: "Stage"
+"stage.button" = "暫存";
+
+// Table column header for a file that was added
+// en: "Added"
+"table.column.added.title" = "已新增";
+
+// Table column header for the values of a file after a change
+// en: "After"
+"table.column.after.title" = "變更後";
+
+// Table column header for the values of a file before and after a change
+// en: "Before/After"
+"table.column.before-and-after.title" = "變更前/後";
+
+// Table column header for the values of a file before a change
+// en: "Before"
+"table.column.before.title" = "變更前";
+
+// Table column header for a file that was deleted
+// en: "Deleted"
+"table.column.deleted.title" = "已刪除";
+
+// Table column header for the key/label/name that describes a value in a key-value pair
+// en: "Key"
+"table.column.key.title" = "鍵";
+
+// Button that unstages a file
+// en: "Unstage"
+"unstage.button" = "取消暫存";
