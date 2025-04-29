@@ -1,0 +1,103 @@
+// en: "The font “%@” from the selected version could not be exported."
+"error.cannot-export-instance.title" = "La fuente «%@» de la versión seleccionada no se pudo exportar.";
+// Error message
+
+// en: "The instance “%@” could not be exported."
+"error.invalid-export-file-path.title" = "La instancia «%@» no se pudo exportar.";
+// Error message
+
+// en: "Verify that the Font Proofer companion plugin is installed."
+"error.missing-font-proofer-id.recovery-suggestion" = "Verifica que el plugin complementario de Font Proofer esté instalado.";
+// Error message regarding the Font Proofer application
+
+// en: "The instance “%@” is missing a Font Proofer ID."
+"error.missing-font-proofer-id.title" = "A la instancia «%@» le falta un ID de Font Proofer.";
+// Error message regarding the Font Proofer application
+
+// en: "There is no instance in the font from the version."
+"error.no-instance.title" = "No hay ninguna instancia en la fuente de la versión.";
+// Error message
+
+// en: "Icon"
+"export-styles.note.is-icon-set" = "Icono";
+// Short text that indicates that an export option is an icon set
+
+// en: "Variable"
+"export-styles.note.is-variable-font" = "Variable";
+// Short text that indicates that an export option is a varianle font
+
+// en: "All Instances"
+"export-styles.option.all-instances" = "Todas las instancias";
+// Menu item to select all instances
+
+// en: "All Active Instances"
+"export-styles.option.all-instances.active" = "Todas las instancias activas";
+// Menu item to select all active/exporting instances
+
+// en: "All Masters"
+"export-styles.option.all-masters" = "Todos los másteres";
+// Menu item to select all masters
+
+// en: "Current Master"
+"export-styles.option.master.current" = "Máster actual";
+// Menu item for the current master
+
+// en: "Instances"
+"export-styles.section.instances.title" = "Instancias";
+// Heading for a list of instances (like the title of the Font Info tab for instances)
+
+// en: "Masters"
+"export-styles.section.masters.title" = "Másteres";
+// Heading for a list of masters
+
+// en: "Hello World!"
+"export-text.option.default-text.ascii" = "¡Hola Mundo!";
+// Default font proofer content; only using ASCII characters
+
+// en: "Current Text"
+"export-text.option.edit-view" = "Texto actual";
+// Current text from Edit View
+
+// en: "%@ Proof Fonts"
+"proof-fonts-directory.name" = "%@ Fuentes de prueba";
+// Name of a folder containing font files for a proof document
+
+// en: "Arrangement:"
+"proof-options.arrangement.label" = "Disposición:";
+// The layout arrangement (split vertically or horizontally)
+
+// en: "Columns"
+"proof-options.arrangement.option.columns.title" = "Columnas";
+// An layout arrangement option where items are split vertically
+
+// en: "Rows"
+"proof-options.arrangement.option.rows.title" = "Filas";
+// An layout arrangement option where items are split horizontally
+
+// en: "Content:"
+"proof-options.content.label" = "Contenido:";
+// The text content of the Font Proofer document
+
+// en: "Open in Font Proofer"
+"proof-options.open-in-font-proofer.title" = "Abrir en Font Proofer";
+// A checkbox to open the Font Proofer document in the Font Proofer application once the export is complete
+
+// en: "Style:"
+"proof-options.style.label" = "Estilo:";
+// The font style (master or instance)
+
+// en: "Light Table Comparison"
+"proof.title" = "Comparación de Mesa Luminosa";
+// Title of a Font Proofer document created by Light Table
+
+// en: "Create Proof"
+"save-panel.confirm-button" = "Crear prueba";
+// Button for creating a .proof file
+
+// en: "Create a new Font Proofer proof comparing the current version and the selected version."
+"save-panel.title" = "Crear una nueva prueba de Font Proofer comparando la versión actual y la seleccionada.";
+// Title of the save panel for saving a .proof file to be used in the application “Font Proofer”
+
+// en: "Inactive"
+"separator.title-and-subtitle" = "Inactivo";
+// Short text describing an inactive (nonexporting) instance

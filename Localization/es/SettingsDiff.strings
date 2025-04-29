@@ -1,0 +1,55 @@
+// en: "Diff"
+"general.title" = "Diferencias";
+// Title of the differences settings
+
+// en: "Indentation:"
+"structured-diff.indentation.label" = "Sangría:";
+// Label for controlling the indentation
+
+// en: "Row Spacing:"
+"structured-diff.row-spacing.label" = "Espaciado entre filas:";
+// Label for controlling the space between rows
+
+// en: "Normal"
+"structured-diff.row-spacing.option.normal.label" = "Normal";
+// Normal spacing
+
+// en: "Relaxed"
+"structured-diff.row-spacing.option.relaxed.label" = "Relajado";
+// Relaxed row spacing
+
+// en: "Very Relaxed"
+"structured-diff.row-spacing.option.relaxed.very.label" = "Muy relajado";
+// Very relaxed row spacing
+
+// en: "Tight"
+"structured-diff.row-spacing.option.tight.label" = "Estrecho";
+// Tight row spacing
+
+// en: "Very Tight"
+"structured-diff.row-spacing.option.tight.very.label" = "Muy estrecho";
+// Very tight row spacing
+
+// en: "Structured Diff"
+"structured-diff.title" = "Diferencias estructuradas";
+// Title of the Structured Diff settings
+
+// en: "Value indentation:"
+"structured-diff.value-indentation.label" = "Sangría de valor:";
+// Label for controlling the indentation
+
+// en: "Equal"
+"structured-diff.value-indentation.option.equal.label" = "Igual";
+// Equal indentation
+
+// en: "Increased"
+"structured-diff.value-indentation.option.increased.label" = "Aumentado";
+// Increased indentation
+
+// en: "None"
+"structured-diff.value-indentation.option.none.label" = "Ninguno";
+// No indentation
+
+// en: "Reduced"
+"structured-diff.value-indentation.option.reduced.label" = "Reducido";
+// Reduced indentation

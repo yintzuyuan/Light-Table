@@ -1,0 +1,63 @@
+// en: "Don’t align at offset"
+"alignment-offset.none.description" = "No alinear en la línea de medida";
+// Tooltip for a button that cancels starting a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
+
+// en: "Align at offset…"
+"alignment-offset.start.description" = "Alinear en la línea de medida…";
+// Tooltip for a button that starts a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
+
+// en: "Stop aligning at offset"
+"alignment-offset.stop.description" = "Dejar de alinear en la línea de medida";
+// Tooltip for a button that stops a mode in which the user picks an offset from the baseline at which the alignment is measured (instead of “offset”, the term “measurement line” may be used for the translation)
+
+// en: "Align bottom edges for all layers (hold Option)"
+"alignment.bottom.description" = "Alinear bordes inferiores para todas las capas (mantener Opción)";
+// Tooltip for a button that aligns layers on the bottom edge for all layers if the Option key is pressed
+
+// en: "Align bottom edges"
+"alignment.bottom.title" = "Alinear bordes inferiores";
+// Tooltip for a button that aligns layers on the bottom edge
+
+// en: "Align centers for all layers (hold Option)"
+"alignment.center.description" = "Alinear centros para todas las capas (mantener Opción)";
+// Tooltip for a button that aligns layers on the right edge for all layers if the Option key is pressed
+
+// en: "Align centers"
+"alignment.center.title" = "Alinear centros";
+// Tooltip for a button that aligns layers on the right edge
+
+// en: "Align left edges for all layers (hold Option)"
+"alignment.left.description" = "Alinear bordes izquierdos para todas las capas (mantener Opción)";
+// Tooltip for a button that aligns layers on the left edge for all layers if the Option key is pressed
+
+// en: "Align left edges"
+"alignment.left.title" = "Alinear bordes izquierdos";
+// Tooltip for a button that aligns layers on the left edge
+
+// en: "No alignment for all layers (hold Option)"
+"alignment.none.description" = "Sin alineación para todas las capas (mantener Opción)";
+// Tooltip for a button that disables layer alignment for all layers if the Option key is pressed
+
+// en: "No alignment"
+"alignment.none.title" = "Sin alineación";
+// Tooltip for a button that disables layer alignment
+
+// en: "Align right edges for all layers (hold Option)"
+"alignment.right.description" = "Alinear bordes derechos para todas las capas (mantener Opción)";
+// Tooltip for a button that aligns layers on the right edge for all layers if the Option key is pressed
+
+// en: "Align right edges"
+"alignment.right.title" = "Alinear bordes derechos";
+// Tooltip for a button that aligns layers on the right edge
+
+// en: "Align top edges for all layers (hold Option)"
+"alignment.top.description" = "Alinear bordes superiores para todas las capas (mantener Opción)";
+// Tooltip for a button that aligns layers on the top edge for all layers if the Option key is pressed
+
+// en: "Align top edges"
+"alignment.top.title" = "Alinear bordes superiores";
+// Tooltip for a button that aligns layers on the top edge
+
+// en: "Restore…"
+"restore.button.continuation" = "Restaurar…";
+// Button that shows a menu with glyph and layer restore options

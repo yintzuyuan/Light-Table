@@ -1,0 +1,39 @@
+// en: "Acknowledgements"
+"acknowledgements" = "Agradecimientos";
+// About window section about software license acknowledgements
+
+// en: "Portions of the Light Table software may utilize the following copyrighted material, the use of which is hereby acknowledged."
+"acknowledgements.description" = "Partes del software Mesa Luminosa pueden utilizar el siguiente material protegido por derechos de autor, cuyo uso se reconoce por la presente.";
+// About window description about software license acknowledgements
+
+// en: "License Acknowledgements"
+"acknowledgements.license" = "Agradecimientos de Licencia";
+// Title of a document containing license acknowledgements
+
+// en: "Development"
+"development" = "Desarrollo";
+// About window section about the development of the plugin
+
+// en: "Localization"
+"localization" = "Localización";
+// About window section about the localizers of the plugin [including you!]
+
+// en: "Chinese, Simplified"
+"localization.zh-Hans" = "Chino simplificado";
+// Name of the Simplified Chinese language
+
+// en: "Chinese, Traditional"
+"localization.zh-Hant" = "Chino tradicional";
+// Name of the Traditional Chinese language
+
+// en: "Testing"
+"testing" = "Pruebas";
+// About window section about the tests of the plugin
+
+// en: "Version %1$@ (%2$lld)"
+"version" = "Versión %1$@ (%2$lld)";
+// The marketing version and the built version
+
+// en: "Light Table Website"
+"website.link.title" = "Sitio web de Mesa Luminosa";
+// Title of a link to the Light Table website

@@ -1,0 +1,79 @@
+// en: "Date & Time"
+"date-and-time.label" = "Fecha y hora";
+// Heading for a section in the settings window about the display of the date and time of table entries
+
+// en: "Enforce 24-hour time"
+"entry-format.enforce-24-hour-time.toggle" = "Forzar formato de 24 horas";
+// Checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format
+
+// en: "When selected, shows the time format with 24-hour time (00:00–23:59) even if the Mac is configured to used 12-hour time (00:00 AM–11:59 PM). This removes the need for “AM” and “PM” labels, shortening the time format."
+"entry-format.enforce-24-hour-time.tooltip" = "Cuando se selecciona, muestra el formato de hora con 24 horas (00:00–23:59) incluso si el Mac está configurado para usar el formato de 12 horas (00:00 AM–11:59 PM).\nEsto elimina la necesidad de etiquetas «AM» y «PM», acortando el formato de hora.";
+// Tooltip for a checkbox: whether to always use 24-hour time (00:00–23:59) as opposed to the system time format
+
+// en: "Entry format:"
+"entry-format.label" = "Formato de entrada:";
+// Label introducing a set of formatting options for displaying entries in a table
+
+// en: "Show date"
+"entry-format.show-date.toggle" = "Mostrar fecha";
+// Checkbox: whether to show the date column in a table
+
+// en: "Show time"
+"entry-format.show-time.toggle" = "Mostrar hora";
+// Checkbox: whether to show the time column in a table
+
+// en: "Font size:"
+"font-size.label" = "Tamaño de fuente:";
+// Label for a slider that controls the font size of the text in a table of entries
+
+// en: "Font width:"
+"font-width.label" = "Ancho de fuente:";
+// Label for a slider that controls the width of a font from compressed (narrow characters) to expanded (wide characters)
+
+// en: "Palette"
+"general.title" = "Paleta";
+// Title of the palette settings
+
+// en: "by day"
+"grouping.by-day.button.label" = "por día";
+// Radio button: whether to group entry by day. Visually, this string continues the “Group entries” sentence
+
+// en: "by month"
+"grouping.by-month.button.label" = "por mes";
+// Radio button: whether to group entry by month. Visually, this string continues the “Group entries” sentence
+
+// en: "by week"
+"grouping.by-week.button.label" = "por semana";
+// Radio button: whether to group entry by week. Visually, this string continues the “Group entries” sentence
+
+// en: "by year"
+"grouping.by-year.button.label" = "por año";
+// Radio button: whether to group entry by year. Visually, this string continues the “Group entries” sentence
+
+// en: "Group entries"
+"grouping.toggle.label" = "Agrupar entradas";
+// Checkbox: whether to group entries by a certain criterion. Visually, this string begins a sentence that is ended by as list of radio buttons labeled “by year”, “by month”, …
+
+// en: "Row spacing:"
+"row-spacing.label" = "Espaciado entre filas:";
+// Label for pop-up menu with different row spacing options
+
+// en: "Custom: %@×"
+"row-spacing.option.custom-value" = "Personalizado: %@×";
+// Menu item title: indicates a custom row spacing with a certain scaling factor (e.g. 1.75 or 2)
+
+// en: "Normal"
+"row-spacing.option.normal" = "Normal";
+// normal amount of spacing between rows
+
+// en: "Relaxed"
+"row-spacing.option.relaxed" = "Relajado";
+// more spacing between rows
+
+// en: "Tight"
+"row-spacing.option.tight" = "Estrecho";
+// less spacing between rows
+
+// en: "Display on a single line"
+"subject.single-line-toggle.label" = "";
+// Label for a checkbox to toggle whether the subject should be displayed on a single line or across multiple lines

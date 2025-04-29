@@ -1,0 +1,67 @@
+// en: "Added and Modified Glyphs"
+"action.new-tab-with-changed-glyphs.added-modified.title" = "Glifos añadidos y modificados";
+// Button that opens a new tab with a list of glyphs that have been added or modified
+
+// en: "Added Glyphs"
+"action.new-tab-with-changed-glyphs.added.title" = "Glifos añadidos";
+// Button that opens a new tab with a list of glyphs that have been added
+
+// en: "Modified Glyphs"
+"action.new-tab-with-changed-glyphs.modified.title" = "Glifos modificados";
+// Button that opens a new tab with a list of glyphs that have been modified
+
+// en: "New Tab with Changed Glyphs"
+"action.new-tab-with-changed-glyphs.title" = "Nueva pestaña con glifos modificados";
+// Button that opens a new tab with a list of glyphs that have changed
+
+// en: "Added and Modified Layers"
+"action.new-tab-with-changed-layers.added-modified.title" = "Capas añadidas y modificadas";
+// Button that opens a new tab with a list of layers that have been added or modified
+
+// en: "Added Layers"
+"action.new-tab-with-changed-layers.added.title" = "Capas añadidas";
+// Button that opens a new tab with a list of layers that have been added
+
+// en: "Modified Layers"
+"action.new-tab-with-changed-layers.modified.title" = "Capas modificadas";
+// Button that opens a new tab with a list of layers that have been modified
+
+// en: "New Tab with Changed Layers"
+"action.new-tab-with-changed-layers.title" = "Nueva pestaña con capas modificadas";
+// Button that opens a new tab with a list of glyph layers that have changed
+
+// en: "Compare in Font Proofer…"
+"compare-in-font-proofer" = "Comparar en Font Proofer…";
+// Menu item for comparing a file version to the current version in the app “Font Proofer”
+
+// en: "Copy Commit Hash “^[%@](voice: \'code\')…”"
+"copy-commit-hash.with-display-hash" = "Copiar hash de commit «^[%@](voice: \'code\')…»";
+// Menu item for copying a Git commit hash to the clipboard
+
+// en: "%@ from Version:"
+"file-from-version.heading.leading" = "%@ de la versión:";
+// Heading for buttons related to a file from a version
+
+// en: "Saved Version"
+"notification.did-save-version.title" = "Versión guardada";
+// Title of a notification that is shown when a font file version was saved
+
+// en: "Open in New Window"
+"open-in-new-window.button" = "Abrir en nueva ventana";
+// Menu item for opening a file in new Glyphs window
+
+// en: "Save Version"
+"save-panel.file-from-commit.confirm-button" = "Guardar versión";
+// Button for saving the file of a selection version
+
+// en: "Save “%@” from commit %@ (%@)"
+"save-panel.file-from-commit.title" = "Guardar «%@» del commit %@ (%@)";
+// Title of the save panel for saving a font file from a specific version with a certain commit hash and date
+
+// en: "Save to…"
+"save-to.button.continuation" = "Guardar en…";
+// Menu item for saving a file to a location on disk
+
+// en: "Show Repository"
+"show-repository.button" = "Mostrar repositorio";
+// Button that opens the window for the Git repository of the current font

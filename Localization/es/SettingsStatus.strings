@@ -1,0 +1,31 @@
+// en: "Status"
+"general.title" = "Estado";
+// Title of the Git status (added/modified) settings
+
+// en: "Indicator symbols are displayed for glyphs that have been added or modified since the latest document version."
+"status-indicators.description" = "Se muestran símbolos indicadores para los glifos que se han añadido o modificado desde la última versión del documento.";
+// A description of what status indicators are
+
+// en: "Examples:"
+"status-indicators.examples.label" = "Ejemplos:";
+// Label introducing a list of examples
+
+// en: "added glyph"
+"status-indicators.examples.option.added.title" = "glifo añadido";
+// Text used as a placeholder for a glyph that has been added since the latest version
+
+// en: "modified glyph"
+"status-indicators.examples.option.modified.title" = "glifo modificado";
+// Text used as a placeholder for a glyph that has been modified since the latest version
+
+// en: "Status Indicators:"
+"status-indicators.label" = "Indicadores de estado:";
+// Label for a section of controls
+
+// en: "Show in Edit View"
+"status-indicators.show-in-edit-view.toggle.title" = "Mostrar en vista de edición";
+// Checkbox controlling whether to show status indicator symbols in Edit View
+
+// en: "Show in Font View"
+"status-indicators.show-in-font-view.toggle.title" = "Mostrar en vista de fuente";
+// Checkbox controlling whether to show status indicator symbols in Font View

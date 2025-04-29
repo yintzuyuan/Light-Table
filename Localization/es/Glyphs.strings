@@ -1,0 +1,3 @@
+// en: "Failed to decode object of type %@."
+"error.decode.unknown" = "Error al decodificar objeto de tipo %@.";
+// A generic error message about an object of a certain class failing to decode.

@@ -1,0 +1,3 @@
+// en: "This glyph is locked; no changes are possible"
+"locked-glyph-message" = "Este glifo está bloqueado; no se pueden realizar cambios";
+// Tooltip: explains a closed lock icon that indicates the no modifications are possible for the locked glyph

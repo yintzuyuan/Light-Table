@@ -1,0 +1,449 @@
+// en: "App Version"
+".appVersion" = "Versión de la aplicación";
+
+// en: "Format Version"
+".formatVersion" = "Versión del formato";
+
+// en: "Alignment"
+"alignment" = "Alineación";
+
+// en: "Alpha"
+"alpha" = "Alfa";
+
+// en: "Anchor"
+"anchor" = "Ancla";
+
+// en: "Anchors"
+"anchors" = "Anclas";
+
+// en: "Angle"
+"angle" = "Ángulo";
+
+// en: "Annotations"
+"annotations" = "Anotaciones";
+
+// en: "Associated Master ID"
+"associatedMasterId" = "ID de máster asociado";
+
+// en: "Attributes"
+"attr" = "Atributos";
+
+// en: "Automatic"
+"automatic" = "Automático";
+
+// en: "Axes"
+"axes" = "Ejes";
+
+// en: "Axis Values"
+"axesValues" = "Valores de los ejes";
+
+// en: "Background"
+"background" = "Fondo";
+
+// en: "Background Image"
+"backgroundImage" = "Imagen de fondo";
+
+// en: "Kerning Group: Bottom"
+"bottomKerningGroup" = "Grupo de kerning: inferior";
+
+// en: "Metrics Key: Bottom"
+"bottomMetricsKey" = "Clave de métricas: inferior";
+
+// en: "Case"
+"case" = "Caja";
+// Case as in upper case, lower case, small caps, etc.
+
+// en: "Category"
+"category" = "Categoría";
+
+// en: "Classes"
+"classes" = "Clases";
+
+// en: "Closed"
+"closed" = "Cerrado";
+
+// en: "Code"
+"code" = "Código";
+
+// en: "Color"
+"color" = "Color";
+
+// en: "Crop"
+"crop" = "Recorte";
+
+// en: "Custom Parameters"
+"customParameters" = "Parámetros personalizados";
+
+// en: "Date"
+"date" = "Fecha";
+
+// en: "Direction"
+"direction" = "Dirección";
+
+// en: "Disabled"
+"disabled" = "Desactivado";
+
+// en: "Disable Automatic Alignment"
+"disablesAutomaticAlignment" = "Desactivar alineación automática";
+
+// en: "Disable Nice Names"
+"disablesNiceNames" = "Desactivar nombres bonitos";
+
+// en: "Display Strings"
+"displayStrings" = "Cadenas de visualización";
+
+// en: "Exports"
+"exports" = "Exporta";
+// Whether to export something or not
+
+// en: "Family Name"
+"familyName" = "Nombre de familia";
+
+// en: "Prefixes"
+"featurePrefixes" = "Prefijos";
+
+// en: "Features"
+"features" = "Funciones";
+
+// en: "File"
+"file" = "Archivo";
+
+// en: "Filter"
+"filter" = "Filtro";
+
+// en: "Masters"
+"fontMaster" = "Másteres";
+
+// en: "Glyph"
+"glyph" = "Glifo";
+
+// en: "Glyph Order"
+"glyphOrder" = "Orden de glifos";
+
+// en: "Glyph Name"
+"glyphname" = "Nombre del glifo";
+
+// en: "Glyphs"
+"glyphs" = "Glifos";
+
+// en: "Grid"
+"grid" = "Cuadrícula";
+
+// en: "Grid Length"
+"gridLength" = "Longitud de la cuadrícula";
+
+// en: "Grid Subdivision"
+"gridSubDivision" = "Subdivisión de la cuadrícula";
+
+// en: "Guides"
+"guides" = "Guías";
+
+// en: "Height"
+"height" = "Altura";
+
+// en: "Hints"
+"hints" = "Hints";
+
+// en: "Icon Name"
+"iconName" = "Nombre del icono";
+
+// en: "ID"
+"id" = "ID";
+
+// en: "Image Path"
+"imagePath" = "Ruta de la imagen";
+
+// en: "Image URL"
+"imageURL" = "URL de la imagen";
+
+// en: "Instance Interpolations"
+"instanceInterpolations" = "Interpolaciones de instancia";
+
+// en: "Instances"
+"instances" = "Instancias";
+
+// en: "Is Bold"
+"isBold" = "Es negrita";
+
+// en: "Is Italic"
+"isItalic" = "Es cursiva";
+
+// en: "Keep Alternates Together"
+"keepAlternatesTogether" = "Mantener alternativas juntas";
+
+// en: "Keep Weight"
+"keepWeight" = "Mantener peso";
+
+// en: "Kerning Group Bottom"
+"kernBottom" = "Grupo de kerning inferior";
+
+// en: "Kerning Group Left"
+"kernLeft" = "Grupo de kerning izquierdo";
+
+// en: "Kerning Group Right"
+"kernRight" = "Grupo de kerning derecho";
+
+// en: "Kerning Group Top"
+"kernTop" = "Grupo de kerning superior";
+
+// en: "Kerning (LTR)"
+"kerningLTR" = "Kerning (LTR)";
+
+// en: "Kerning (RTL)"
+"kerningRTL" = "Kerning (RTL)";
+
+// en: "Kerning (Vertical)"
+"kerningVertical" = "Kerning (vertical)";
+
+// en: "Keyboard Increment"
+"keyboardIncrement" = "Incremento de teclado";
+
+// en: "Keyboard Increment (Big)"
+"keyboardIncrementBig" = "Incremento de teclado (grande)";
+
+// en: "Keyboard Increment (Huge)"
+"keyboardIncrementHuge" = "Incremento de teclado (enorme)";
+
+// en: "Labels"
+"labels" = "Etiquetas";
+
+// en: "Last Change"
+"lastChange" = "Último cambio";
+
+// en: "Layer"
+"layer" = "Capa";
+
+// en: "Layer ID"
+"layerId" = "ID de capa";
+
+// en: "Layers"
+"layers" = "Capas";
+
+// en: "Kerning Group: Left"
+"leftKerningGroup" = "Grupo de kerning: izquierdo";
+
+// en: "Metrics Key: Left"
+"leftMetricsKey" = "Clave de métricas: izquierda";
+
+// en: "Length"
+"length" = "Longitud";
+
+// en: "Link Style"
+"linkStyle" = "Estilo de enlace";
+
+// en: "Lock Angle"
+"lockAngle" = "Bloquear ángulo";
+
+// en: "Locked"
+"locked" = "Bloqueado";
+
+// en: "Manual Interpolation"
+"manualInterpolation" = "Interpolación manual";
+
+// en: "Master ID"
+"masterId" = "ID de máster";
+
+// en: "Ascender"
+"metric.type.ascender" = "Ascendente";
+
+// en: "Baseline"
+"metric.type.baseline" = "Línea base";
+
+// en: "Body Height"
+"metric.type.body-height" = "Altura del cuerpo";
+
+// en: "Cap Height"
+"metric.type.cap-height" = "Altura de mayúsculas";
+
+// en: "Descender"
+"metric.type.descender" = "Descendente";
+
+// en: "Italic Angle"
+"metric.type.italic-angle" = "Ángulo de cursiva";
+
+// en: "Mid Height"
+"metric.type.mid-height" = "Altura media";
+
+// en: "Slant Height"
+"metric.type.slant-height" = "Altura inclinada";
+
+// en: "x-Height"
+"metric.type.x-height" = "Altura x";
+
+// en: "Metric Bottom"
+"metricBottom" = "Métrica inferior";
+
+// en: "Metric Left"
+"metricLeft" = "Métrica izquierda";
+
+// en: "Metric Right"
+"metricRight" = "Métrica derecha";
+
+// en: "Metric Top"
+"metricTop" = "Métrica superior";
+
+// en: "Metric Values"
+"metricValues" = "Valores métricos";
+
+// en: "Vertical Origin"
+"metricVertOrigin" = "Origen vertical";
+
+// en: "Vertical Width"
+"metricVertWidth" = "Ancho vertical";
+
+// en: "Width"
+"metricWidth" = "Ancho";
+
+// en: "Metrics"
+"metrics" = "Métricas";
+
+// en: "Name"
+"name" = "Nombre";
+
+// en: "Nodes"
+"nodes" = "Nodos";
+
+// en: "Note"
+"note" = "Nota";
+
+// en: "Notes"
+"notes" = "Notas";
+
+// en: "Number Values"
+"numberValues" = "Valores numéricos";
+
+// en: "Numbers"
+"numbers" = "Números";
+
+// en: "Orientation"
+"orientation" = "Orientación";
+
+// en: "Origin"
+"origin" = "Origen";
+
+// en: "Overshoot"
+"overshoot" = "Rebasamiento";
+
+// en: "Part Selection"
+"partSelection" = "Selección de parte";
+
+// en: "Parts Settings"
+"partsSettings" = "Configuración de partes";
+
+// en: "Piece Values"
+"piece" = "Valores de pieza";
+
+// en: "Position"
+"pos" = "Posición";
+
+// en: "Production"
+"production" = "Producción";
+
+// en: "Properties"
+"properties" = "Propiedades";
+
+// en: "Reference"
+"ref" = "Referencia";
+
+// en: "Kerning Group: Right"
+"rightKerningGroup" = "Grupo de kerning: derecho";
+
+// en: "Metrics Key: Right"
+"rightMetricsKey" = "Clave de métricas: derecha";
+
+// en: "Scale"
+"scale" = "Escala";
+
+// en: "Script"
+"script" = "Script";
+// Script as in Latin, Cyrillic, Greek, etc.
+
+// en: "Shapes"
+"shapes" = "Formas";
+
+// en: "Show Measurement"
+"showMeasurement" = "Mostrar medida";
+
+// en: "Size"
+"size" = "Tamaño";
+
+// en: "Slant"
+"slant" = "Inclinación";
+
+// en: "Sort Name"
+"sortName" = "Nombre de ordenación";
+
+// en: "Sort Name Keep"
+"sortNameKeep" = "Mantener nombre de ordenación";
+
+// en: "Stem Values"
+"stemValues" = "Valores de asta";
+
+// en: "Stems"
+"stems" = "Astas";
+
+// en: "Subcategory"
+"subCategory" = "Subcategoría";
+
+// en: "Tag"
+"tag" = "Etiqueta";
+
+// en: "Tags"
+"tags" = "Etiquetas";
+
+// en: "Kerning Group: Top"
+"topKerningGroup" = "Grupo de kerning: superior";
+
+// en: "Metrics Key: Top"
+"topMetricsKey" = "Clave de métricas: superior";
+
+// en: "Type"
+"type" = "Tipo";
+
+// en: "Unicode"
+"unicode" = "Unicode";
+
+// en: "UPM"
+"unitsPerEm" = "Unidades por Em";
+
+// en: "User Data"
+"userData" = "Datos de usuario";
+
+// en: "Version Major"
+"versionMajor" = "Versión mayor";
+
+// en: "Version Minor"
+"versionMinor" = "Versión menor";
+
+// en: "Vertical Origin"
+"vertOrigin" = "Origen vertical";
+
+// en: "Vertical Width"
+"vertWidth" = "Ancho vertical";
+
+// en: "Metrics Key: Vertical Width"
+"vertWidthMetricsKey" = "Clave de métricas: ancho vertical";
+
+// en: "Vertical Stems"
+"verticalStems" = "Astas verticales";
+
+// en: "Visible"
+"visible" = "Visible";
+
+// en: "Weight Class"
+"weightClass" = "Clase de peso";
+
+// en: "Width"
+"width" = "Ancho";
+
+// en: "Width Class"
+"widthClass" = "Clase de ancho";
+
+// en: "Metrics Key: Width"
+"widthMetricsKey" = "Clave de métricas: ancho";
+
+// en: "X"
+"x" = "X";
+
+// en: "Y"
+"y" = "Y";

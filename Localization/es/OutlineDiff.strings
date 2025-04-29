@@ -1,0 +1,47 @@
+// en: "Collapse Entries"
+"collapse-child-items.button" = "Contraer entradas";
+// Button that collapses (fold in) the rows of all diff entries that are directly nested inside of the selected diff entry
+
+// en: "Expand Entries"
+"expand-child-items.button" = "Expandir entradas";
+// Button that expands (fold out) the rows of all diff entries that are directly nested inside of the selected diff entry
+
+// en: "Select Next Entry on Same Level Above"
+"select-next-item-on-same-level-above.button" = "Seleccionar siguiente entrada en el mismo nivel superior";
+// Button that selects the next row above that is on the same indentation level as the currently selected row
+
+// en: "Select Next Entry on Same Level Below"
+"select-next-item-on-same-level-below.button" = "Seleccionar siguiente entrada en el mismo nivel inferior";
+// Button that selects the next row below that is on the same indentation level as the currently selected row
+
+// en: "Stage"
+"stage.button" = "Preparar";
+// Button that stages a file
+
+// en: "Added"
+"table.column.added.title" = "Añadido";
+// Table column header for a file that was added
+
+// en: "After"
+"table.column.after.title" = "Después";
+// Table column header for the values of a file after a change
+
+// en: "Before/After"
+"table.column.before-and-after.title" = "Antes/Después";
+// Table column header for the values of a file before and after a change
+
+// en: "Before"
+"table.column.before.title" = "Antes";
+// Table column header for the values of a file before a change
+
+// en: "Deleted"
+"table.column.deleted.title" = "Eliminado";
+// Table column header for a file that was deleted
+
+// en: "Key"
+"table.column.key.title" = "Clave";
+// Table column header for the key/label/name that describes a value in a key-value pair
+
+// en: "Unstage"
+"unstage.button" = "Despreparar";
+// Button that unstages a file

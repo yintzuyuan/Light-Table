@@ -1,0 +1,46 @@
+// en: "%@"
+"%@" = "%@";
+
+// en: "%@ – %@"
+"%@ – %@" = "%@ – %@";
+// A title separated from a subtitle
+
+// en: "%lld"
+"%lld" = "%lld";
+
+// en: "Light Table"
+"Light Table" = "Mesa Luminosa";
+// Name of the product
+
+// en: "Cancel"
+"button.cancel" = "Cancelar";
+
+// en: "Done"
+"button.done" = "Hecho";
+// Done button for a dialog window
+
+// en: "Translate"
+"button.translate" = "Traducir";
+// Button that triggers machine translation of text
+
+// en: "Loading…"
+"loading.continuation" = "Cargando…";
+// Label: placeholder text which is shown while loading data
+
+// en: "Multiple Selection"
+"multiple-selection" = "Selección múltiple";
+// Multiple different things are selected
+
+// en: "Reset"
+"reset-button.tooltip" = "Restablecer";
+
+// en: "Reset"
+"reset.tooltip" = "Restablecer";
+
+// en: " — %@"
+"separator.subtitle" = " — %@";
+// A subtitle separated from a previous title
+
+// en: "“%@”"
+"string.quoted" = "«%@»";
+// A quoted word or phrase

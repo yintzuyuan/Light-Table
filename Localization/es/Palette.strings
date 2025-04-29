@@ -1,0 +1,159 @@
+// en: "%@:"
+"%@:" = "%@:";
+// Label: heading of a section
+
+// en: "About Light Table"
+"about-light-table.button" = "Acerca de Mesa Luminosa";
+// Button: shows the about window
+
+// en: "Actions"
+"actions.button.tooltip" = "Acciones";
+// Tooltip for a button that opens a menu that allows performing actions on a version
+
+// en: "Create version"
+"create-version.button.tooltip" = "Crear versión";
+// Tooltip for a button that creates a new version of the document
+
+// en: "Error"
+"error.heading" = "Error";
+// Label indicating an error
+
+// en: "Filter versions"
+"filter-versions.button.tooltip" = "Filtrar versiones";
+// Tooltip for a button that opens a menu that allows filtering versions
+
+// en: "%1$lld/%2$lld"
+"filter.indexing.progress" = "%1$lld/%2$lld";
+// Text displaying the current progress of indexing (for example, “20/100” when 20% are complete)
+
+// en: "Indexing…"
+"filter.indexing.title" = "Indexando…";
+// Text displayed while indexing (processing data in the background to create a search index)
+
+// en: "Show:"
+"filter.show-versions.header" = "Mostrar:";
+// Title for list of options that control which versions to show
+
+// en: "All Document Versions"
+"filter.show-versions.option.document" = "Todas las versiones del documento";
+// Option that shows all versions
+
+// en: "Versions Affecting Active Glyph"
+"filter.show-versions.option.glyph" = "Versiones que afectan al glifo activo";
+// Option that shows only versions that affect the active glyph
+
+// en: "Versions Affecting Active Layer"
+"filter.show-versions.option.layer" = "Versiones que afectan a la capa activa";
+// Option that shows only versions that affect the active layer
+
+// en: "Filtering is not supported for “.%@” files"
+"filter.unsupported-file-type.title" = "El filtrado no es compatible con archivos «.%@»";
+// Error message shown when a file type is not supported for filtering a list of versions
+
+// en: "Git:"
+"git.heading.leading" = "Git:";
+// Label: heading of a section
+
+// en: "Show Error Report"
+"placeholder.error.button.title" = "Mostrar informe de errores";
+// Label of a button that shows a full error report with log messages
+
+// en: "Error"
+"placeholder.error.title" = "Error";
+// Placeholder text shown when an error occurs
+
+// en: "This document is not yet saved to a file."
+"placeholder.no-file.description" = "Este documento aún no se ha guardado en un archivo.";
+// Placeholder text shown when a document is not saved as a file
+
+// en: "No File"
+"placeholder.no-file.title" = "Sin archivo";
+// Placeholder text shown when a document is not saved as a file
+
+// en: "There are no versions for the selected glyph."
+"placeholder.no-filter-matches.glyph.description" = "No hay versiones para el glifo seleccionado.";
+// Text indicating that a list of versions is empty because no version exists for the currently selected glyph.
+
+// en: "There are no versions for the selected layer."
+"placeholder.no-filter-matches.layer.description" = "No hay versiones para la capa seleccionada.";
+// Text indicating that a list of versions is empty because no version exists for the currently selected layer.
+
+// en: "Set up Repository…"
+"placeholder.no-repository.button.title" = "Configurar repositorio…";
+// Label of a button that initializes a Git repository
+
+// en: "This file is not stored in a Git repository."
+"placeholder.no-repository.description" = "Este archivo no está almacenado en un repositorio Git.";
+// Placeholder text shown when a document is not saved into a Git repository
+
+// en: "No Repository"
+"placeholder.no-repository.title" = "Sin repositorio";
+// Placeholder text shown when a document is not saved into a Git repository
+
+// en: "There are no versions of this document yet. Click the plus button to create a new version."
+"placeholder.no-versions.description" = "Aún no hay versiones de este documento. Haz clic en el botón más para crear una nueva versión.";
+// Placeholder text shown when the list of versions is empty
+
+// en: "No Versions"
+"placeholder.no-versions.title" = "Sin versiones";
+// Placeholder text shown when the list of versions is empty
+
+// en: "Branches:"
+"reference-picker.branches.heading.continuation" = "Ramas:";
+// Label: title of a list of branches
+
+// en: "Reference"
+"reference-picker.heading" = "Referencia";
+// Label: title of a control to pick a reference
+
+// en: "Remotes:"
+"reference-picker.remotes.heading.continuation" = "Remotos:";
+// Label: title of a list of remote references
+
+// en: "Tags"
+"reference-picker.tags.heading" = "Etiquetas";
+// Label: title of a list of tags
+
+// en: "Save the document to a file to use Git"
+"save-document-to-file-to-use-git.message" = "Guarda el documento en un archivo para usar Git";
+// Label explaining that a document first needs to be saved to a file before it can be used with Git
+
+// en: "Scroll to selected version"
+"scroll-to-selected-version.button.tooltip" = "Desplazar a la versión seleccionada";
+// Tooltip for a button that scrolls to the selected version in a list of versions
+
+// en: "Set up Git Repository…"
+"set-up-git-repository.button" = "Configurar repositorio Git…";
+// Button: opens a window for setting up a version control system for the current document
+
+// en: "Settings…"
+"settings.button.continuation" = "Ajustes…";
+// Button: opens the settings window
+
+// en: "View Options"
+"view-options.button.tooltip" = "Opciones de vista";
+// Tooltip for a button that opens a menu that allows setting options for the view
+
+// en: "Show Color Labels:"
+"view-options.heading.color-labels.title" = "Mostrar etiquetas de color:";
+// Heading for menu items that show color labels
+
+// en: "Glyph & Layer"
+"view-options.item.glyph-and-layer.title" = "Glifo y Capa";
+// Menu item that shows color labels for both glyphs and layers
+
+// en: "Glyph"
+"view-options.item.glyph.title" = "Glifo";
+// Menu item that shows color labels for glyphs
+
+// en: "Layer"
+"view-options.item.layer.title" = "Capa";
+// Menu item that shows color labels for layers
+
+// en: "None"
+"view-options.item.none.title" = "Ninguno";
+// Menu item that does not show any color labels
+
+// en: "What’s New in Light Table"
+"what-is-new-in-light-table.button" = "Novedades en Mesa Luminosa";
+// Button: shows the changelog window

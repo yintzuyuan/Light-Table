@@ -1,0 +1,55 @@
+// en: "Save the following documents before discarding changes:\n\n%@"
+"cannot-discard-edited-document.alert.description.multiple" = "Guarda los siguientes documentos antes de descartar los cambios:\n\n%@";
+// Alert description explaining that changes in unsaved documents cannot be discarded
+
+// en: "Save the document “%@” before discarding changes."
+"cannot-discard-edited-document.alert.description.single" = "Guarda el documento «%@» antes de descartar los cambios.";
+// Alert description explaining that changes in an unsaved document cannot be discarded
+
+// en: "Cannot discard changes in unsaved documents"
+"cannot-discard-edited-document.alert.title" = "No se pueden descartar cambios en documentos no guardados";
+// Alert title explaining that changes in unsaved documents cannot be discarded
+
+// en: "Discarding these changes cannot be undone."
+"discard-change.alert.description.cannot-undo-all" = "Descartar estos cambios no se puede deshacer.";
+// Alert description informing the user that the discard action cannot be undone
+
+// en: "Discarding this change cannot be undone."
+"discard-change.alert.description.cannot-undo-single" = "Descartar este cambio no se puede deshacer.";
+// Alert description informing the user that the discard action cannot be undone
+
+// en: "Discarding cannot be undone for some of these changes."
+"discard-change.alert.description.cannot-undo-some" = "Descartar no se puede deshacer para algunos de estos cambios.";
+// Alert description informing the user that the discard action cannot be undone for some changes
+
+// en: "Discard Changes"
+"discard-change.alert.title.multiple" = "Descartar cambios";
+// Title of an alert window before discarding multiple changes
+
+// en: "Discard Change"
+"discard-change.alert.title.single" = "Descartar cambio";
+// Title of an alert window before discarding a change
+
+// en: "Discard Changes"
+"discard-change.button.multiple" = "Descartar cambios";
+// Button discarding multiple changes
+
+// en: "Discard Changes…"
+"discard-change.button.multiple.continuation" = "Descartar cambios…";
+// Button discarding multiple changes
+
+// en: "Discard Change"
+"discard-change.button.single" = "Descartar cambio";
+// Button discarding a change
+
+// en: "Discard Change…"
+"discard-change.button.single.continuation" = "Descartar cambio…";
+// Button discarding a change
+
+// en: "The following changes could not be discarded:"
+"failed-discarding-changes.alert.description" = "Los siguientes cambios no se pudieron descartar:";
+// Alert description explaining that some changes could not be discarded
+
+// en: "Some changes could not be discarded"
+"failed-discarding-changes.alert.title" = "Algunos cambios no se pudieron descartar";
+// Alert title explaining that some changes could not be discarded

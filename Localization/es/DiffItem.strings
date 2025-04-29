@@ -1,0 +1,128 @@
+// en: "%lld node (open)"
+"%lld nodes (open)|==|plural.one" = "%lld nodo (abierto)";
+// Label for a open path
+
+// en: "%lld nodes (open)"
+"%lld nodes (open)|==|plural.other" = "%lld nodos (abierto)";
+// Label for a open path
+
+// en: "%lld node"
+"%lld nodes|==|plural.one" = "%lld nodo";
+// Label for a closed path
+
+// en: "%lld nodes"
+"%lld nodes|==|plural.other" = "%lld nodos";
+// Label for a closed path
+
+// en: "%lld unchanged value"
+"%lld unchanged values|==|plural.one" = "%lld valor sin cambios";
+// A placeholder text showing the number of unchanged values/entries/elements in a list.
+
+// en: "%lld unchanged values"
+"%lld unchanged values|==|plural.other" = "%lld valores sin cambios";
+// A placeholder text showing the number of unchanged values/entries/elements in a list.
+
+// en: "%lld value"
+"%lld values|==|plural.one" = "%lld valor";
+// A placeholder text showing the number of values/entries/elements in a list.
+
+// en: "%lld values"
+"%lld values|==|plural.other" = "%lld valores";
+// A placeholder text showing the number of values/entries/elements in a list.
+
+// en: "no"
+"boolean.false" = "no";
+// Boolean false or no value
+
+// en: "yes"
+"boolean.true" = "sí";
+// Boolean true or yes value
+
+// en: "%1$u, %2$u, %3$u, %4$u"
+"color-label.color-components.reg-green-blue-alpha" = "%1$u, %2$u, %3$u, %4$u";
+// The red, green, blue, and alpha (opacity) components of a color label.
+
+// en: "Blue"
+"color.blue" = "Azul";
+
+// en: "Brown"
+"color.brown" = "Marrón";
+
+// en: "Cyan"
+"color.cyan" = "Cian";
+
+// en: "Dark Gray"
+"color.dark-gray" = "Gris oscuro";
+
+// en: "Dark Green"
+"color.dark-green" = "Verde oscuro";
+
+// en: "Light Gray"
+"color.light-gray" = "Gris claro";
+
+// en: "Light Green"
+"color.light-green" = "Verde claro";
+
+// en: "Orange"
+"color.orange" = "Naranja";
+
+// en: "Pink"
+"color.pink" = "Rosa";
+
+// en: "Purple"
+"color.purple" = "Morado";
+
+// en: "Red"
+"color.red" = "Rojo";
+
+// en: "Yellow"
+"color.yellow" = "Amarillo";
+
+// en: "Automatic (Aligned)"
+"component.alignment.aligned" = "Automático (alineado)";
+// The alignment of a component
+
+// en: "Default"
+"component.alignment.default" = "Predeterminado";
+// The alignment of a component
+
+// en: "Disabled"
+"component.alignment.disable" = "Desactivado";
+// The alignment of a component
+
+// en: "Automatic"
+"component.alignment.force" = "Automático";
+// The alignment of a component
+
+// en: "Automatic (Horizontal)"
+"component.alignment.horizontal" = "Automático (horizontal)";
+// The alignment of a component
+
+// en: "None"
+"component.alignment.none" = "Ninguno";
+// The alignment of a component
+
+// en: "%lld bytes"
+"data.byte-count" = "%lld bytes";
+// The number of bytes of data
+
+// en: "%1$@ → %2$@"
+"index.move" = "%1$@ → %2$@";
+// Short description about an item that moved from one index to another
+
+// en: "%1$@–%2$@"
+"index.range" = "%1$@–%2$@";
+// A range from a lower number to a upper number
+
+// en: "This entry was moved from position %1$@ to position %2$@"
+"moved-item-tooltip" = "Esta entrada se movió de la posición %1$@ a la posición %2$@";
+// Tooltip for a moved entry
+
+// en: "Center"
+"orientation.center" = "Centro";
+
+// en: "Left"
+"orientation.left" = "Izquierda";
+
+// en: "Right"
+"orientation.right" = "Derecha";

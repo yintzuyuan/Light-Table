@@ -1,0 +1,11 @@
+// en: "Light Table"
+"CFBundleDisplayName" = "Mesa Luminosa";
+// Bundle display name
+
+// en: "Light Table"
+"CFBundleName" = "Mesa Luminosa";
+// Bundle name
+
+// en: "© 2021–2025 Florian Pircher"
+"NSHumanReadableCopyright" = "© 2021–2025 Florian Pircher";
+// Copyright (human-readable)

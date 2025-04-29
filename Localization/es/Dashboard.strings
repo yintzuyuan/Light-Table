@@ -1,0 +1,59 @@
+// en: "Repository"
+"section.repository.title" = "Repositorio";
+// Heading of a section of items related to the Git repository
+
+// en: "added"
+"status.added" = "añadido";
+// The Git status for a file that has been added
+
+// en: "changed type"
+"status.changed-type" = "tipo cambiado";
+// The Git status for a file whose type has been changed
+
+// en: "copied"
+"status.copied" = "copiado";
+// The Git status for a file that has been copied
+
+// en: "deleted"
+"status.deleted" = "eliminado";
+// The Git status for a file that has been deleted
+
+// en: "ignored"
+"status.ignored" = "ignorado";
+// The Git status for a file that is ignored (explicitly not part of the Git repository)
+
+// en: "modified"
+"status.modified" = "modificado";
+// The Git status for a file that has been modified
+
+// en: "position before move"
+"status.move.source" = "posición antes de mover";
+// The status of a piece of data before it was moved up or down in a list
+
+// en: "position after move"
+"status.move.target" = "posición después de mover";
+// The status of a piece of data after it was moved up or down in a list
+
+// en: "renamed"
+"status.renamed" = "renombrado";
+// The Git status for a file that has been renamed
+
+// en: "unknown"
+"status.unknown" = "desconocido";
+// The Git status for a file whose status is unknown
+
+// en: "unmerged"
+"status.unmerged" = "sin fusionar";
+// The Git status for a file that is unmerged (not merged because of a conflict)
+
+// en: "untracked"
+"status.untracked" = "sin seguimiento";
+// The Git status for a file that is untracked (not yet part of the Git repository)
+
+// en: "Create New Versions"
+"view.working-copy.subtitle" = "Crear nuevas versiones";
+// A short description of a view where changes are diffed, staged, and committed
+
+// en: "Working Copy"
+"view.working-copy.title" = "Copia de trabajo";
+// Title of a view where changes are diffed, staged, and committed

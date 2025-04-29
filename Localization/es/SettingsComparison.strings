@@ -1,0 +1,39 @@
+// en: "Align layers"
+"default-alignment.align-layers.toggle.title" = "Alinear capas";
+// Title for a toggle in the settings window that allows users to align layers by default
+
+// en: "Default Alignment"
+"default-alignment.heading" = "Alineación predeterminada";
+// Heading for a section in the settings window about how layers should be aligned by default
+
+// en: "Compare all layers"
+"general.compare-all-layers.toggle.title" = "Comparar todas las capas";
+// Checkbox: whether the comparison mode should apply to all layers or to just the current layer
+
+// en: "Comparison"
+"general.title" = "Comparación";
+// Title of the comparison tool/reporter settings
+
+// en: "Theme"
+"theme.heading" = "Tema";
+// Heading for a section in the settings window about colors
+
+// en: "Added area:"
+"theme.options.added-area.label" = "Área añadida:";
+// Label for the color that fills the area that was added to a shape
+
+// en: "Common area:"
+"theme.options.common-area.label" = "Área común:";
+// Label for the color that fills the area that is shared by multiple shapes
+
+// en: "Current outline:"
+"theme.options.current-outline.label" = "Contorno actual:";
+// Label for the color of the outline of the current shape
+
+// en: "Deleted area:"
+"theme.options.deleted-area.label" = "Área eliminada:";
+// Label for the color that fills the area that was deleted from a shape
+
+// en: "Other outline:"
+"theme.options.other-outline.label" = "Otro contorno:";
+// Label for the color of the outline of another (not the current) shape

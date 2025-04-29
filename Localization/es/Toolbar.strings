@@ -1,0 +1,3 @@
+// en: "Repository"
+"item.title" = "Repositorio";
+// The title of the toolbar item that shows general information about the Git repository.
