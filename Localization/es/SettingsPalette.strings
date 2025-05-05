@@ -75,5 +75,5 @@
 // less spacing between rows
 
 // en: "Display on a single line"
-"subject.single-line-toggle.label" = "";
+"subject.single-line-toggle.label" = "Mostrar en una sola línea";
 // Label for a checkbox to toggle whether the subject should be displayed on a single line or across multiple lines

@@ -18,6 +18,10 @@
 "localization" = "Localización";
 // About window section about the localizers of the plugin [including you!]
 
+// en: "Spanish"
+"localization.es" = "Español";
+// Name of the Spanish language
+
 // en: "Chinese, Simplified"
 "localization.zh-Hans" = "Chino simplificado";
 // Name of the Simplified Chinese language
