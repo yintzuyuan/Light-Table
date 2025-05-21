@@ -80,6 +80,12 @@ GSFont.lt_glyph_changeset_of_record = objc.python_method(
     )
 )
 
+GSFont.lt_raw_glyph_changeset_of_record = objc.python_method(
+    lambda self, record: _LightTableInterface.rawGlyphChangesetOfRecord_inFont_(
+        record, self
+    )
+)
+
 ## GSGlyph
 
 class ObjectStatus(Enum):
