@@ -4,21 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
+		<key>Resources/AboutWindow.storyboardc/AboutWindow.nib</key>
 		<data>
-		du1Ds97xa3Tn7zV/7DBPEVTeu2s=
+		2PiuboxCg9XGeqhwUzYj7N9/Xuc=
 		</data>
-		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
+		<key>Resources/AboutWindow.storyboardc/Info.plist</key>
 		<data>
-		XzNdj21zIy2p1mIr0Wbu/jt0IYM=
+		zcBFa/5PR25/zbQwIz7w7Vjjv2Q=
 		</data>
-		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
+		<key>Resources/AboutWindow.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<data>
 		dcwLIQgURpAxDkq7VP/MHVMjaZg=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		UZN4GsEUIn7toSIaq3oLG+pzTxs=
+		2x/LIP7k/Erb1H7Afv9mhb2iIpQ=
 		</data>
 		<key>Resources/ComparisonInspector.nib</key>
 		<data>
@@ -26,15 +26,15 @@
 		</data>
 		<key>Resources/ComponentsRestoration.nib</key>
 		<data>
-		wRl7lc/fEJQs/sGQ4EVhTCDN8fM=
+		1QJsHdzUG7zUv2/e36/8ZBHdiSU=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Dashboard.nib</key>
 		<data>
-		vJ/q2tc7mX2uDFxTEubJErfBPDw=
+		/fzu+SBva3KChbPU6RSKXZ4UkKQ=
 		</data>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<data>
-		VZKsBxV2UhmwQRWftaTxGLvM4jU=
+		8ZNdf4xEzFdqCUWFyzZOwxplOUg=
 		</data>
 		<key>Resources/Dashboard.storyboardc/NSViewController-TFs-nr-ayd.nib</key>
 		<data>
@@ -42,95 +42,295 @@
 		</data>
 		<key>Resources/Dashboard.storyboardc/fGz-ZK-oDV-view-TjW-Aq-voY.nib</key>
 		<data>
-		H51Ia25sW4/FqLQhPSttEwepwp0=
+		EG04WdHX6yr7OADtveTVK7RIIX0=
 		</data>
 		<key>Resources/Dashboard.storyboardc/hVU-2k-RsF-view-7Bh-aW-SgT.nib</key>
 		<data>
-		CpMFd0wwsXIqqOWDgT0fCxIocok=
+		HwRSYM06Uck3U2sgzg1YF62QR0c=
 		</data>
 		<key>Resources/Dashboard.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
 		<data>
-		cm1pbquFRk3vfmF7ht6UD+pYOHM=
+		GzyWH5gZzaCQUV1G59ovivjPjN8=
 		</data>
 		<key>Resources/DiffView.storyboardc/Diff.nib</key>
 		<data>
-		73VYzT+97OemHubZZe9vadPdEgA=
+		w6fvJuVPuexb6bkD/0ehOlvLuok=
+		</data>
+		<key>Resources/DiffView.storyboardc/DiffTextView.nib</key>
+		<data>
+		GcNcqad3aLbnRh6zFdcIKL3to9M=
+		</data>
+		<key>Resources/DiffView.storyboardc/IGN-lf-7ZW-view-HJu-Vx-sZ2.nib</key>
+		<data>
+		H51Ia25sW4/FqLQhPSttEwepwp0=
 		</data>
 		<key>Resources/DiffView.storyboardc/Info.plist</key>
 		<data>
-		PIm8gdq6aSaX4EidjaVa3mg5PXY=
+		VQnlypGApQOA7wrIXSr8iFEv2RU=
 		</data>
 		<key>Resources/DiffView.storyboardc/LEw-pY-oEg-view-7mY-Kr-Tgu.nib</key>
 		<data>
-		qcbWCMlAifOd2T/web46dDcIelE=
-		</data>
-		<key>Resources/DiffView.storyboardc/aEe-z2-Jan-view-Uil-JO-2Gj.nib</key>
-		<data>
-		y1SR1515doDlTq6JiYLYC4q2Osw=
+		J71qo/MkBtlSZZJc01C1L9cj1sM=
 		</data>
 		<key>Resources/DiffView.storyboardc/f0O-fx-pJc-view-B2D-F9-KIg.nib</key>
 		<data>
 		2W86YsPS6BiBLhTB2OFxqwERMZY=
 		</data>
+		<key>Resources/DiffView.storyboardc/i8g-zt-0uW-view-2ka-sk-khl.nib</key>
+		<data>
+		aAGjlAY0r2oxBDr4X4EOJI/16UU=
+		</data>
 		<key>Resources/FontProoferOptions.nib</key>
 		<data>
 		XUXURtYrJ9UCKwGt/HPDkE9SRNI=
 		</data>
-		<key>Resources/GitUserConfigurationWindowController.nib</key>
+		<key>Resources/GitUserConfigurationWindow.nib</key>
 		<data>
 		HDpmM9+0ZyJT8z8dxIJ+1uKdm2A=
 		</data>
 		<key>Resources/PaletteView.nib</key>
 		<data>
-		iz4W0Y5Vh5L117Ae6VnlEzd6jE8=
+		ws1faqPWbz4+Oo/TbtFpkLudgE4=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/ACa-ZL-vil-view-mSM-ua-Hvq.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/ACa-ZL-vil-view-mSM-ua-Hvq.nib</key>
 		<data>
-		RLBhd8Mtu3NU4LJCWLLHFqHJp7c=
+		rAQKPqRI/KatziLlFgDjMfKStfc=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<data>
-		e8uM8W0Mim4tQYZFwSKsPCHwebk=
+		lHvIEIYc6YbAtF+Of3WKOub9HIw=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<data>
-		Q64Waz2zW7AgTFN+JvMai+kWpY8=
+		FW38DW7iW7I7w01hxWxSfgo8BgI=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<data>
-		U9A+GvGT6GfLxJe8d8bzmqG03h4=
+		ZV9nKUi6v/Z0vhFL67ZLOXZKimI=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/Info.plist</key>
+		<key>Resources/PreferencesWindow.storyboardc/Info.plist</key>
 		<data>
-		jCSpYhlk6G18HcCgZelxzO9U74M=
+		aGt9A0kCyEqJ/tP43U+s5+wmySQ=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/PreferencesWindow.nib</key>
 		<data>
-		5aTkIxU/r4LpirbekiZchZ1TDYk=
+		2Kza3ZQ/9QhtpVlMIWwfGVg54mg=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/nF3-nZ-T7g-view-udI-fj-YZM.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/nF3-nZ-T7g-view-udI-fj-YZM.nib</key>
 		<data>
-		hhT3936o1EfuikklABEYeRdI8T8=
+		SX6AwRl8d9AQGK69YXBdP2fVyfQ=
 		</data>
-		<key>Resources/PreferencesWindowController.storyboardc/u0n-j0-fMJ-view-ec5-JY-hdc.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/u0n-j0-fMJ-view-ec5-JY-hdc.nib</key>
 		<data>
 		gP9HiAA0RgpYETixTm3cYi8z18E=
 		</data>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/Info.plist</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/Info.plist</key>
 		<data>
-		QByEq7a6L4MfoQPxCmfuMSLyzwA=
+		xIEyecre21GyVO/o6g8u5JGDN3A=
 		</data>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<data>
 		dcwLIQgURpAxDkq7VP/MHVMjaZg=
 		</data>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/ReleaseNotesWindowController.nib</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/ReleaseNotesWindow.nib</key>
 		<data>
-		d57tfy0J5abf1yWAVgQencXgeDg=
+		IBYnf66WhMr5Khs/wgsRHRVchqY=
 		</data>
-		<key>Resources/RestorationController.nib</key>
+		<key>Resources/RestorationView.nib</key>
 		<data>
-		16ggM/mvxFU1VKi0WdZPOJyZeTg=
+		eMAmHomFEwV+8HDwLN+mCNa3xZM=
+		</data>
+		<key>Resources/TreeSitterBash_TreeSitterBash.bundle/Contents/Info.plist</key>
+		<data>
+		16YM6SWyMhk0qMngHshaaKr5oRw=
+		</data>
+		<key>Resources/TreeSitterBash_TreeSitterBash.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		b6AcUbzZ9ySL8nw9VPsIS/kbHY0=
+		</data>
+		<key>Resources/TreeSitterCSS_TreeSitterCSS.bundle/Contents/Info.plist</key>
+		<data>
+		GC5pnG0JhsZiv1LLVFH0F+ODlbI=
+		</data>
+		<key>Resources/TreeSitterCSS_TreeSitterCSS.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		oGvs3P4qjhT4JqnMBnnDTMKe/P8=
+		</data>
+		<key>Resources/TreeSitterFea_TreeSitterFea.bundle/Contents/Info.plist</key>
+		<data>
+		ar7De6wRc4CIPJzggSfNtT2rhKI=
+		</data>
+		<key>Resources/TreeSitterFea_TreeSitterFea.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		9txsEFXdCOmUcRbu9EqXoZ3WYhk=
+		</data>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Info.plist</key>
+		<data>
+		Kz19s8+wGlb+3vzYL1YcRyIcN5E=
+		</data>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		fzWxCV1iNGztoWsIRtfTdiLmiT8=
+		</data>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		YHk5ulSpVwQQcjTgM+sWVWbmcsk=
+		</data>
+		<key>Resources/TreeSitterJSON_TreeSitterJSON.bundle/Contents/Info.plist</key>
+		<data>
+		wIDT021FA2yPgtdaUSnfX8lIOK0=
+		</data>
+		<key>Resources/TreeSitterJSON_TreeSitterJSON.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		OBYTStL3EQhljyTgdsOTTj3rOG0=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Info.plist</key>
+		<data>
+		SV0a80YDAG3OzXNAsKCWn4PLa+o=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights-jsx.scm</key>
+		<data>
+		kvnBekihBPoP1dKyAOTrIsOngHg=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights-params.scm</key>
+		<data>
+		Lzbq//tu4Ntka5whCarpCEPKey4=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		H5CcZeK9gWiesXXChDLCC3DsrQE=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		6j6uCkvJD7la/AgcpTF8YZjtDv4=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/locals.scm</key>
+		<data>
+		mbimEvLTS9LaqCVQO1uDGOEpOiw=
+		</data>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/tags.scm</key>
+		<data>
+		fhyd9N/K8ePOOR5oSYxBlq3vxek=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Info.plist</key>
+		<data>
+		VUOMt5Y/i/8enlwJXrYASnc2uE4=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		8tVaxC/20ReVmnWwqJzTSFFwzx0=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		DRgnXuiNBqjslRlrhT8dnkLUaCY=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Info.plist</key>
+		<data>
+		5NkeF7l4a0DccvAB/KcN8VHskaQ=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		OA4rY6VzLuYNCXCuFWt6XhMEsFY=
+		</data>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		PAcChHegVy8sk/4fJKCUbslvOQI=
+		</data>
+		<key>Resources/TreeSitterPropertyList_TreeSitterPropertyList.bundle/Contents/Info.plist</key>
+		<data>
+		IMThWQt9kec5FqGvIvHUAGECnww=
+		</data>
+		<key>Resources/TreeSitterPropertyList_TreeSitterPropertyList.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		m/FMhKMsHBItQS2BCcVW68fgPMI=
+		</data>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Info.plist</key>
+		<data>
+		nAwwTtGV5MtKPGX9Hd8oAmSHAG4=
+		</data>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		p5vNB66sQ3mC7jdjsUAqtaj5psY=
+		</data>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Resources/queries/tags.scm</key>
+		<data>
+		tU82YKZGM0zdbllkAOa0HDnjsX8=
+		</data>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Info.plist</key>
+		<data>
+		+EL/cE4VSwwaI0z734vcr+u/GTA=
+		</data>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		acjImTp1jSWgpKCYo9BZVPN+exI=
+		</data>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		5FHdcrn6V6ugS3PgdJNpknFQSMw=
+		</data>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/tags.scm</key>
+		<data>
+		Xt2mPrmx8qMnc+Ns8pySsxlowEM=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Info.plist</key>
+		<data>
+		kbnvevN+lwKD2RroroH5jcu2tFU=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/folds.scm</key>
+		<data>
+		sEr44Aes+IfZ5e1K1tvwz9B4AYw=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		DAMVY8MgQGBR1s54kDFNAMZmnho=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/indents.scm</key>
+		<data>
+		stZa2zrLK0H3AUtvIhofP/PREng=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/injections.scm</key>
+		<data>
+		bEVFQdUykjYKhsu8e9tqx7cRxDM=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/locals.scm</key>
+		<data>
+		uyULP5EGWnR8UxFE68i+AOnazpQ=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/outline.scm</key>
+		<data>
+		u8iLCe7Qho5RWoq0mUijEd/Bqeo=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/tags.scm</key>
+		<data>
+		AtnU9RVk1ejEvCKrnD3/6qdOI9I=
+		</data>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/textobjects.scm</key>
+		<data>
+		hDwW/L5k8PpE8HONqDGx+m7yfaI=
+		</data>
+		<key>Resources/TreeSitterXML_TreeSitterDTD.bundle/Contents/Info.plist</key>
+		<data>
+		jqHA0heKTJUJBPxqoZ5zjCzXaJU=
+		</data>
+		<key>Resources/TreeSitterXML_TreeSitterDTD.bundle/Contents/Resources/dtd/highlights.scm</key>
+		<data>
+		Jt7vZf0wLMToHb7tXzu1JkwcE+k=
+		</data>
+		<key>Resources/TreeSitterXML_TreeSitterXML.bundle/Contents/Info.plist</key>
+		<data>
+		+kzDlhCshzzBuXsGEdh4oN+OulU=
+		</data>
+		<key>Resources/TreeSitterXML_TreeSitterXML.bundle/Contents/Resources/xml/highlights.scm</key>
+		<data>
+		5tnsnx7U9CzXmVZ7++MmpDGVK8A=
+		</data>
+		<key>Resources/TreeSitterYAML_TreeSitterYAML.bundle/Contents/Info.plist</key>
+		<data>
+		f8PHBNYx74Li55KHGw+rxM5MT90=
+		</data>
+		<key>Resources/TreeSitterYAML_TreeSitterYAML.bundle/Contents/Resources/queries/highlights.scm</key>
+		<data>
+		HulY8/1/IDPxsBJNUzDuDAX+2yY=
 		</data>
 		<key>Resources/de.lproj/AboutView.strings</key>
 		<dict>
@@ -190,7 +390,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GVlbrHDt+BqJRN2uFEztr6XpCdo=
+			SGyyMa57scwpc/y3sQ6tswAcv9o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -200,6 +400,15 @@
 			<key>hash</key>
 			<data>
 			RxsrtQeWI78HqABSBGG8fe+qYRw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Diffing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hO4BMGT9dGKPbkxp9xaokfcALhg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -253,7 +462,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M4shDhCLGRkoNE5mdRkvyNRun/I=
+			F74igX7MSlnT8omuO1dckp01LL4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -298,7 +507,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TSJX5rOouU3cWhlg7gLZbk2iIw4=
+			Jrkv7/xBwGCsUcr1VpzKaT02kPE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -370,7 +579,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rCS4/QWqUrTFZ8NdfSduAE8SSuI=
+			GvoVBRAae1fvZz+2A27uYUXxIhc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -379,7 +588,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UOGPvwKV4eQ7cakYvqIFugAXmRA=
+			Fc5lpw8p9Pqh5yRY3y0dh250G0c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -510,6 +719,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/WorkingCopy.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iNaNYe8T/WVjBN7NOhzXz6mLDUc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/es.lproj/AboutView.strings</key>
 		<dict>
 			<key>hash</key>
@@ -568,7 +786,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MpNmk3DVcd7EVwEwXwakT9M9lHM=
+			Y2iEx0/0VggRbHYDRXukVcjJwko=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -685,7 +903,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hj0eRtKW2jVk3DsLiteirL7Qu6U=
+			jN+OldQ+DONDdwxlr1vAm4kyq5I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -829,7 +1047,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MgmHYu4DL7UhPt4xAQ1fItRE4kU=
+			hMIclLTgN5ihjUoUD/fa928IcaA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -901,7 +1119,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5sHE3/yRk6jG0hU+x/KWXXT8gXY=
+			1jOvEvnYzZna98MGGztZ178RDjE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -946,7 +1164,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VVjlnxZd8VM4Dd9jX5JB9n+kz0M=
+			bTg/stCQaE1dYqYisn+HX9MVlTA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1090,7 +1308,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mQIWsl12ldOyrpC3poxia4SgYXM=
+			MyAu+G668GX5JeJ1fZXcbqIbGwo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1207,7 +1425,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dZdlAZpian3r8frL7YXJGjiyolo=
+			OxAxcS1FEAGikYE7uIR+d9AEsqs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1351,7 +1569,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOTqtI9ULGpeisMcZ85hpCM7DtM=
+			96UmuUy3YzW22RUdKyxJRuIaabc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1459,7 +1677,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3xTdvCAzj++w4V4bPCNbSmd1KLs=
+			YACHd7ASIdbSxeKJG7nP/DA3Iyw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1548,21 +1766,21 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/AboutWindowController.storyboardc/AboutWindowController.nib</key>
+		<key>Resources/AboutWindow.storyboardc/AboutWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ByDOoEqhRNtkvECWEMAtM3QMUWCVr9mUWcnbl3hI8/I=
+			Bft/tmLlIxE4Qjxqp8dv/iM+IoymVG3ynZI3BuPjtZ0=
 			</data>
 		</dict>
-		<key>Resources/AboutWindowController.storyboardc/Info.plist</key>
+		<key>Resources/AboutWindow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nitiwROWSB7HrWlTI2OnFXgDE+EatHRGvgInIwNsXFY=
+			hGb3F7u2i6xNT7S7obGJxVqnxp7ZLEelEHX33Ym/TjE=
 			</data>
 		</dict>
-		<key>Resources/AboutWindowController.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
+		<key>Resources/AboutWindow.storyboardc/aLj-ky-Czp-view-5iC-Lp-ErF.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -1573,7 +1791,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xbaodSERH4S6vcJ0mwejOVOYI+qPQl/pJam/ysMkvDU=
+			WUQSunoLp7cLLEjdV56mlICmwkD81YHLtUVwZNaix2o=
 			</data>
 		</dict>
 		<key>Resources/ComparisonInspector.nib</key>
@@ -1587,21 +1805,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjZPnzOFu2pVRgacJGGWj5zdCzufM5fXKGr08UDSbbM=
+			du5CC6VucZgw5bvdWDZvztSV+S+G+bbmIdB3iRZV+GE=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Dashboard.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H5920zSwyIli7bO76blYVsKu47SsD37M7NEVJEpJr1w=
+			DUIvRqM+44ZAWuSCxhxIUM9oJ4C9l+TKJZLAJoO4uqk=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			irMBk1bCR7GGw3vPJF5UTqUboL2BipuHdQeVBl3sQ5k=
+			eHR+KYLrV9DarGZVqjFrNjYyfya7ljQPgR19s8NnuU0=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/NSViewController-TFs-nr-ayd.nib</key>
@@ -1615,49 +1833,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bfuFy5j63OFK0yK+cr0E5bb9BAl3o5bstYYeS8wJORg=
+			0lYX6s5VURzdynnZPmemIT4VpCiRTtjs9wqj8yN1gzw=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/hVU-2k-RsF-view-7Bh-aW-SgT.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fWtchmtVvxRZOtMSPWq4AStgs7SAPg9Pb2tZ07SLuoo=
+			pA5mxTQQon24IsY+6TK+WU4b8Qt0/bp0B3XYAVqYBSA=
 			</data>
 		</dict>
 		<key>Resources/Dashboard.storyboardc/vVb-z8-scC-view-jiN-Wq-Id2.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vf49yXqw/lNSIRWjVcatr8WIru6sxgUdM5oQi77alDI=
+			erJN5jNXyMQxbAPe4/0MMamxheSGdmjZLSeNA1eMZHs=
 			</data>
 		</dict>
 		<key>Resources/DiffView.storyboardc/Diff.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bc+0MJ3si2pZ3NZCsvpN5qtrwCCxq6ZO+lYVgJRyLqA=
+			RmzMsaIyiAlkkQMTHdQflkbH8cR2Ey5FDTgncA/E+zw=
+			</data>
+		</dict>
+		<key>Resources/DiffView.storyboardc/DiffTextView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IuXSkkM/3TtCGTP6uOszPGuWkUvbjuT/e28YORdERJ4=
+			</data>
+		</dict>
+		<key>Resources/DiffView.storyboardc/IGN-lf-7ZW-view-HJu-Vx-sZ2.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bfuFy5j63OFK0yK+cr0E5bb9BAl3o5bstYYeS8wJORg=
 			</data>
 		</dict>
 		<key>Resources/DiffView.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABFNgUkP2nh5Unluur1LxaXLjyYy636vpyP+pFIjae4=
+			SsI5EIILRMuuSin1j0/4P9vLs0xXzdSlb4huGv8A1d0=
 			</data>
 		</dict>
 		<key>Resources/DiffView.storyboardc/LEw-pY-oEg-view-7mY-Kr-Tgu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			837S1fC11a3V2YcepQLsKITmYX7Q/KOkve30elYEMLw=
-			</data>
-		</dict>
-		<key>Resources/DiffView.storyboardc/aEe-z2-Jan-view-Uil-JO-2Gj.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YorFENCE8eTvxrCWOj98LbN5lJtxoskZqOyb+yRq868=
+			aKdYg9OUj1bFmPrBcOzgaAh5JuNg76VRMyt2o91PMp0=
 			</data>
 		</dict>
 		<key>Resources/DiffView.storyboardc/f0O-fx-pJc-view-B2D-F9-KIg.nib</key>
@@ -1667,6 +1892,13 @@
 			SE2e+m15naOruldvRMRfR4eeys3vkjFEmOv3dxuBh9I=
 			</data>
 		</dict>
+		<key>Resources/DiffView.storyboardc/i8g-zt-0uW-view-2ka-sk-khl.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t0tJseHY5eKYhuN6ezaL5JbhIWnQHHOUpuQ+MTQZSLo=
+			</data>
+		</dict>
 		<key>Resources/FontProoferOptions.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1674,7 +1906,7 @@
 			eb/Qvg5JbhnC/ANDnJ6Dvc69OOo5ZpZAiUIRht5h0bg=
 			</data>
 		</dict>
-		<key>Resources/GitUserConfigurationWindowController.nib</key>
+		<key>Resources/GitUserConfigurationWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -1685,91 +1917,427 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9Gt3rZ+Wna1Tc9VVoAOt9Wqg8IkVATEeLw5RrYefvQ=
+			dZMRM1yf9kHUHxWzdXbdley6aVoGvFkITryb1SqFg/Q=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/ACa-ZL-vil-view-mSM-ua-Hvq.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/ACa-ZL-vil-view-mSM-ua-Hvq.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRfnt9pOnZIRC2anPJCKV718c4Zww1YXLc3hmmHsRrM=
+			PxJLfI8xYVXDjh6DSyfTGKbU2Y4uBOnHB5pSZBpdpYc=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/AOv-CU-z46-view-xV1-dM-IJs.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YBU1ISra6Y68Tggrjf/s1XGpri1OaQIqv7mTT3muEfQ=
+			bw3J+nYKSSV3YRjqKJZJBYemzxnDSXRXupgzB4mpNpQ=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/EYo-AT-7Fd-view-pRD-3v-3Wa.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dr3+8Ts30DE+wtF2PgEmYc7Y2tHCTRRJ1psdK5FvNdU=
+			r1h4orTF/NxHM/kX4Q47AlrS/+81D56055yOaUap3VM=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/FNX-bS-XtX-view-Buu-Nn-DsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NJdpjGodDCReRkrZSHjuTYLI23kWEL1uYUomA70TWTE=
+			2WykYPNytuHOS4NEofZIiyRP1pdDCc64ZpOJ2XzBmXE=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/Info.plist</key>
+		<key>Resources/PreferencesWindow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zsNxHoNOnO6yzKvkjEks3WpryINXNgds+rgBM+M3RJ0=
+			y6ERo+hTIrA7+5sJ7IOU/b1vJzX4NCKNuHzgb5Mp3Mw=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/PreferencesWindowController.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/PreferencesWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LCm4n+SpmWg+rQAYKMQkq6llvJdDiR8dbtS+8TVp1c4=
+			qj+eb2mHPwK+mrTjQRnCeruuTXt+a/RHSWgXkMwEUqc=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/nF3-nZ-T7g-view-udI-fj-YZM.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/nF3-nZ-T7g-view-udI-fj-YZM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LrDxa/Qn+2Kd5+amTRPW6gV7XQKG87AiUXCRC7oJchE=
+			v8vzFdEfS6+ztuWczG16cUm1sWttvZunw31dcFvmJ+Y=
 			</data>
 		</dict>
-		<key>Resources/PreferencesWindowController.storyboardc/u0n-j0-fMJ-view-ec5-JY-hdc.nib</key>
+		<key>Resources/PreferencesWindow.storyboardc/u0n-j0-fMJ-view-ec5-JY-hdc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			rBgWp+oSNTMmi+5Tpfu61OVq3VrptC4qQ+N9jES+Mok=
 			</data>
 		</dict>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/Info.plist</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k2YZ4F/1Bmd8vcRvMw0IkoQW/WN+eXjgGCq9iK4TL4I=
+			kH/kpcv0rUp0p8J173P/665Yy3aawZcG9VPfLVxXZIE=
 			</data>
 		</dict>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/Qm7-BS-gby-view-ASj-ws-lgJ.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			E5TydeWynoe7ikUTfd2H87wFEu4leIDPGUwzqgAM40o=
 			</data>
 		</dict>
-		<key>Resources/ReleaseNotesWindowController.storyboardc/ReleaseNotesWindowController.nib</key>
+		<key>Resources/ReleaseNotesWindow.storyboardc/ReleaseNotesWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WcNRL0TsMAMGkU2eE4jtbqplJvQRRKnKBjLQwATYFbA=
+			/99DVls59rS7nsC7nsNQzFYAeGWuOvr1uEK5Ef7TRfk=
 			</data>
 		</dict>
-		<key>Resources/RestorationController.nib</key>
+		<key>Resources/RestorationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8gk4PAc4I9W/enq0Zxl3jWTDleN55CLVX3h4BhiF/w=
+			HMb/yI53JtCG0B60mXZYadNRAzHI5dB/7RKyKdGRSzw=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterBash_TreeSitterBash.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7bQkAo4jKZ2MjDdr3yXIo163aTwaHExn8rKdp7anwlk=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterBash_TreeSitterBash.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t0Ig2VT0hbdibSsrYfN7Ui4S6xgwgD44jlfdeX3JnxE=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterCSS_TreeSitterCSS.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3SnGtjpKwDwWoo8ceELPkUt4OPFLQOpW4do4/F1TrvA=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterCSS_TreeSitterCSS.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I/eUijgXoNBtcSAVjDvuTsW1jap35SSYWkc4s2TbF7I=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterFea_TreeSitterFea.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jkXoYvJ1OXQ+jSAvcC6jJYuqxAGCbr7pn3kp31sA0j0=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterFea_TreeSitterFea.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HhtrN2N74eMooFSgz2OxHKTY2rXCFq3EI8qNVIVKqYw=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o4AepfTCi9CmIQB2pRIP0DXnPVMd+6G7yszb9XL0ptU=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hrs4EajNwFQ4W4R6Oqxvv3B5+u/Vs9+rW7rSVs1a/c8=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterHTML_TreeSitterHTML.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b6opU36VLuREqqasAPcpVtE/ZWFqredL1mX1rEBfnDI=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJSON_TreeSitterJSON.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jFye+WOciOY3XQXPFadxDPI8CohFMgZ92/PyLI/ahfw=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJSON_TreeSitterJSON.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BRFSRGW1au0SJYB5IlTmi2q7v95xGfHQKxNay+J4Iz8=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vcoP9IkpGkkJ+xBPE4rk6ek3oI+NXHRnThVWA3yuQlo=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights-jsx.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DK0XEqyvQIBLxdx8hHaFh1LB9UnN99jGPHRzF74Pj6Y=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights-params.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u+eljKz7HJVMsOq0R3n9gEIe1Zt2K5dXI0RyB2Nd5Q0=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			02MK5tybKyeyMLX4u5KwXNSR+xK/81Pa5ioKbXgEYe4=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vqNFQHzh8kvM8rPBoSiswU4ZMBMnB0KFNoWG55PcuG0=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/locals.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wd0s+hQA05f6l0II/J7f6Be+SjyLQruZr1yNGTsbt1M=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterJavaScript_TreeSitterJavaScript.bundle/Contents/Resources/queries/tags.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bvmIzOWkKKFbVGDj7pbxR4cF+WX8boSKkaGL+mxvAhI=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6/sgPO4k5RR6wBro2d+mT/azUW2X0Gd+N6AOPHRT0Ko=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D424sBawxznbcwchXc0dM9nL9SIrZOYNRdxPTAjcaEs=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdown.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QmixyNALf5rp8rhlunbKiCBrUPQeeHgyLmBMbBqlbVw=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pv2Gp5lmJeJNfnUCBvijgePO+zhTLi0+lEBTmp5juCg=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			exkVuu9D4+SGaaef2NpNCiYvBtwxWGz2vUjX+id5yLQ=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterMarkdown_TreeSitterMarkdownInline.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rw0UcbSbHZeYYM9hmhP8hOHsvf2lIjIK/nR3tVTn5bU=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterPropertyList_TreeSitterPropertyList.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uFSx+GsfYAgINNIY/nlPrfTHbgtwwsCZs3ktg+R+lyw=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterPropertyList_TreeSitterPropertyList.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GADIY9JLG6C05TeA6ehS+5a4F6cESaAHsZasGJZVcQk=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AVzPR7Fr2qAnzhR/UxvlTldJ5sR/4SwdR4lo7+JIvhc=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pnCPIJOBYY4rOYlyyPHM2JLwwGTqs1oqP5EcPiLnmn4=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterPython_TreeSitterPython.bundle/Contents/Resources/queries/tags.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0PPld4eBZ7+rww5Sbkl7zljRaZubyr+Ks6UGmO+1yj4=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH295w0CvH2o/g4qU4hr6Pu1IPnYmk4JMu2J06k1iHE=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DwNDEH8Up2kBV/UQkKl564+L/k6tp8YXY920xUsTEdE=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cjFG8Xm8Dt+6L1FzHJmvzovtO2d9+0Q1wwOFn64pm6U=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterRust_TreeSitterRust.bundle/Contents/Resources/queries/tags.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ihn/eveXLCRhhwI00aQ3CVA9DGAaL+Bvp9rDTSKuME=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IZBIxKg5GzzRzbFlTDbdUq5MtSV7cXRybUTTDbXde8Q=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/folds.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TwCws5Lc5woBJ7Z9HHhY8QdHaBJfPBcCsirNA25cm6A=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sLvrkYkEslLovTYfSvtHVmRyMjkREKZ97sv3InRkr/g=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/indents.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jAJfi2cRZ+h/Nx7yMM1oyVM2HFpvc1y7iZhfeR/6faA=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/injections.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/VQeRn/SZn7Xz99gSw87PRrCYyeRlyhA6u3QuZpYHlg=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/locals.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qwp9ccMCEuHg4h6xs+1xlZ+3G/dKb+onoO+/SR69occ=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/outline.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hkaHUWnagT6OJz3rHkqEYnoRMXwHza2d1llCecS3Pt0=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/tags.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bTiE4/eF1iESg1aiOsgd/EONmoU7juJLgHDcLKr2Mco=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterSwift_TreeSitterSwift.bundle/Contents/Resources/queries/textobjects.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qAhvVZY+DHnJHe1BxdrMjajsh1PwW02z6nDOVuQoH6Q=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterXML_TreeSitterDTD.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HF1k9PyyODSQ6YDYa90Rp+VtpJBO4rc3IYqT5d1Nj8I=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterXML_TreeSitterDTD.bundle/Contents/Resources/dtd/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UJGujoMRwWobvf+g7ogZtVuXt4bMoSOSqSUqU5Mga8k=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterXML_TreeSitterXML.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U3F7cIjARYE+VIIpDqMhF19WSe/XdlyN2qrneR4BxXc=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterXML_TreeSitterXML.bundle/Contents/Resources/xml/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qkpWHIRpKMOk2IWsvmkKYGiWYaRWhLq+Fs+LehUJthA=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterYAML_TreeSitterYAML.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GOsP9+IU99wkHjS/ofrd6UBAQ/U+ItgfbV6SpzwtTeY=
+			</data>
+		</dict>
+		<key>Resources/TreeSitterYAML_TreeSitterYAML.bundle/Contents/Resources/queries/highlights.scm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L7+71coJKNCn4J5Z+PKWSxSjKKfuDOeZJw2QE9zOSaA=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/AboutView.strings</key>
@@ -1830,7 +2398,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lt/GPrRfv1pv9Byj7veuNhekjCk1rwsPHUXu5+EkToA=
+			hZShSVE5vfj7bae5SqB1mMxzqrrsKYsF/h6VOsFkiSg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1840,6 +2408,15 @@
 			<key>hash2</key>
 			<data>
 			klKyEeom2rBFSZg0Y0YYrPRo+TBW86NxRPITUyRSBDg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/de.lproj/Diffing.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xDg0WhAoYUuq0TAUkz77Zk9B0SlUBn27cZDVgfbZeMw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1893,7 +2470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WrB9cpY0o6YeYGyjHQC2Xm/rI+5laCyMh08aC1r2TkA=
+			PCnYDZ5jy+EhRLeHGVzhYdEW3fhy0+sptmh8DMMb6og=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1938,7 +2515,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VKkx3V1knTnKi2GAXzQtU5jbhwmUpDwfMhq9cVxIeik=
+			uNm+STrJvIFctZflW5Lb41XJsLGEA5e37rMZJcNCrP0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2010,7 +2587,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C0XkgklE56EwETq3/YSs3vOst5NK11IDoX/MTh4+zOA=
+			mo9bfQtUqmBX/sJBWEK+GzoKPchh7EmBHFG+Q2nwxpk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2019,7 +2596,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQb8syNV0e+16PDw4+S0nMmX7JqkVTwSzkygb4apoH4=
+			Pbi0Xiia4IxSHWbg59CGckzHm+Cw94p+JyceqJMFgMI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2150,6 +2727,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/WorkingCopy.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CkOkkEUODkSXbQoR8jUdqGUTuyQqKVkA2YoEWTA/xxU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/es.lproj/AboutView.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -2208,7 +2794,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m1yfYYOhzTnZxk/4jvQMp6yO5CR1xWbWctKbm89mgfE=
+			RxV75usRiZN6A/KGTWSw/XysGwwXbB64dX2JdBo5Ps4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2325,7 +2911,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SLaedQI5z5MW7z+LY7zhDBukJ5IFH2FPflUCex+LqvY=
+			wBUJo3ZSdrIivpXGKphuF1f+8N3A0g+sit3jaIACWEQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2469,7 +3055,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7S/Li+U96SwmQ17qwQKQt8U/YHVJnA4YtDihr9tygk=
+			eLfmsVD5JtZgRnSmhF88391tq+B3egmu8Cgb+5F+vpE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2541,7 +3127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTGJF1qKS/cwIpqhvPkxFXe+VYv5TyS++QWcgXHS2n4=
+			9tRH46Zm7EBClsj+FdL/uZvtrgxO1WVHQNJ7+6Wmm5k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2586,7 +3172,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oT8he2CbVE6p9lV3MTTxzk7NX2XRr7nDPejedVtkrhw=
+			hnoDFkxyLa6dfO1S7bQTodl9H21kdWTL0d2Yy6UxrGs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2730,7 +3316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			98VoXKXfYSidkB5/30ZE5zEjXRWx/hfJzBNh98K32gQ=
+			dijf2rYwGweFzYFHrVQP1zv8fxel0ujoW5SG/Q7ckHg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2847,7 +3433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EeYBGVw2oI4NLYMU9UcxtcZecGQcxjchmaVJaFFc/t0=
+			ZEQgVPjv8oPE6ENRKKV/TlK07UCod96pIFE5cGO8jQM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2991,7 +3577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ry7pBZgp4HqJO++rMAzDOzzNeXv+lPq0dBtCy/mapKA=
+			a824VEwmEfiY/tGbomfcNXkRjnjl2XaqNnGhabZr+pE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3099,7 +3685,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ayx2ghACY8H0GjhNpe/ZFl74FGtlJjqw/WTtgCJlMkg=
+			BHh0a09to2816BjtDNxW+FeoBFCc4ZOAkE2wY4Z1+7g=
 			</data>
 			<key>optional</key>
 			<true/>
